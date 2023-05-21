@@ -1,0 +1,8 @@
+{ //esse arquivo a baixo são extensões recomendadas para utilizaqr nesse projeto 
+  "recommendations": [
+    "esbenp.prettier-vscode", //essa parte vai formatar de forma automática o nosso código
+    "PKief.material-icon-theme", //essa parte vai deixar os ícones de arquivos e pasta mais bonitos
+    "rocketseat.theme-omni", // essa parte deixa as cores mais bonitas
+    "ritwickdey.LiveServer" // observa as musanças no arquivo, re4carrega o projeto automaticamete
+  ]
+}
